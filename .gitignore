@@ -1,0 +1,3 @@
+content/generated/*.png
+cache
+node_modules
